@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4706a528.css",
+    "main.js": "/static/js/main.6f3b1a21.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Union 3.png": "/static/media/Union 3.719fbd2b8c70ff96263b.png",
+    "static/media/Union 2.png": "/static/media/Union 2.0cc7fccd8256b11862f3.png",
+    "static/media/9045.svg": "/static/media/9045.6e4fea11d97fc1881f80.svg",
+    "static/media/mem.svg": "/static/media/mem.2e40b17fdc08a883e9f444bd75636d9a.svg",
+    "static/media/1512.svg": "/static/media/1512.659f5d8f576a6bcde0c519aa84940f35.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/aff.svg": "/static/media/aff.1256cb73b9539763b274b5ca318b3836.svg",
+    "index.html": "/index.html",
+    "static/media/person.svg": "/static/media/person.b3a5c7cddebefafde0497784908b2306.svg",
+    "static/media/basket.svg": "/static/media/basket.f98223e8b520cfb7345ae0fddf019c59.svg",
+    "static/media/9044.svg": "/static/media/9044.3394e4aeed41e609635af454ebf4adbd.svg",
+    "static/media/apple.svg": "/static/media/apple.c47bdb826fc9bf419c867672a839d680.svg",
+    "static/media/google.svg": "/static/media/google.079b908f5d75b3967dfe5ac6bc4a9366.svg",
+    "static/media/location.svg": "/static/media/location.83b46bfd7ca381cf8e46dc6b1a5b0b73.svg",
+    "static/media/mail.svg": "/static/media/mail.1e8a55fc86ad2ce4427aad234e74153e.svg",
+    "main.4706a528.css.map": "/static/css/main.4706a528.css.map",
+    "main.6f3b1a21.js.map": "/static/js/main.6f3b1a21.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4706a528.css",
+    "static/js/main.6f3b1a21.js"
+  ]
+}
